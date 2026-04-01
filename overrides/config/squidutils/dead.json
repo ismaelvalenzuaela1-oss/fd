@@ -1,0 +1,20 @@
+{
+  "commands": [
+    {
+      "delaySeconds": 0.0,
+      "command": "say {player} ha muerto!"
+    },
+    {
+      "delaySeconds": 3.0,
+      "command": "title {player} times 10 70 20"
+    },
+    {
+      "delaySeconds": 3.05,
+      "command": "title {player} title {\"text\":\"HAS MUERTO\",\"color\":\"red\",\"bold\":true}"
+    },
+    {
+      "delaySeconds": 3.1,
+      "command": "title {player} subtitle {\"text\":\"Mejor suerte la próxima vez\",\"color\":\"gray\"}"
+    }
+  ]
+}

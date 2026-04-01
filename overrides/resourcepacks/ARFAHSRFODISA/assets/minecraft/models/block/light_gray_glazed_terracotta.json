@@ -1,0 +1,23 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/sprites",
+		"particle": "block/fondoaletas"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, -17]},
+			"faces": {
+				"north": {"uv": [11.80127, 11.26637, 15.20402, 15.33492], "texture": "#1"},
+				"east": {"uv": [11.80127, 11.26637, 15.20402, 15.33492], "texture": "#1"},
+				"south": {"uv": [11.80392, 11.26637, 15.20667, 15.33492], "texture": "#1"},
+				"west": {"uv": [11.80127, 11.26637, 15.20402, 15.33492], "texture": "#1"},
+				"up": {"uv": [11.80127, 11.26637, 15.20402, 15.33492], "texture": "#1"},
+				"down": {"uv": [11.80127, 11.26637, 15.20402, 15.33492], "texture": "#1"}
+			}
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extendedslabs:block/sand_slab"
+      },
+      {
+        "model": "extendedslabs:block/sand_slab",
+        "y": 90
+      },
+      {
+        "model": "extendedslabs:block/sand_slab",
+        "y": 180
+      },
+      {
+        "model": "extendedslabs:block/sand_slab",
+        "y": 270
+      }
+    ]
+  }
+}

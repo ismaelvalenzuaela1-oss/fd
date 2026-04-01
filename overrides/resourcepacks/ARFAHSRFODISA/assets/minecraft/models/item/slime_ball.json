@@ -1,0 +1,18 @@
+{
+ "parent": "item/generated",
+ "textures": {
+ "layer0": "item/slime_ball"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":1}, "model": "item/slime_ball/1"},
+ {"predicate": {"custom_model_data":2}, "model": "item/slime_ball/2"},
+ {"predicate": {"custom_model_data":3}, "model": "item/slime_ball/3"},
+ {"predicate": {"custom_model_data":4}, "model": "item/slime_ball/4"},
+ {"predicate": {"custom_model_data":5}, "model": "item/slime_ball/5"},
+ {"predicate": {"custom_model_data":6}, "model": "item/slime_ball/6"},
+ {"predicate": {"custom_model_data":7}, "model": "item/slime_ball/7"},
+ {"predicate": {"custom_model_data":8}, "model": "item/slime_ball/8"}
+ 
+ ]
+}

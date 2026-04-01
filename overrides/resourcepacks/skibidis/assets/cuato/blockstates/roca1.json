@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cuato:block/roca1" },
+    "facing=south": { "model": "cuato:block/roca1", "y": 180 },
+    "facing=east": { "model": "cuato:block/roca1", "y": 90 },
+    "facing=west": { "model": "cuato:block/roca1", "y": 270 }
+  }
+}

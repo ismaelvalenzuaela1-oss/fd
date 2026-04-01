@@ -1,0 +1,210 @@
+{
+  "squid.squidgalaxy": {
+    "category": "neutral",
+    "sounds": ["squid/squidgalaxy"]
+  },	
+  "squid.shot": {
+    "category": "neutral",
+    "sounds": ["squid/shot"]
+  },
+  "squid.luces": {
+    "category": "neutral",
+    "sounds": ["squid/luces"]
+  },
+  "squid.night2": {
+    "category": "neutral",
+    "sounds": ["squid/night2"]
+  },
+  "squid.bailelaobra": {
+    "category": "neutral",
+    "sounds": ["squid/bailelaobra"]
+  },
+  "squid.end": {
+    "category": "neutral",
+    "sounds": ["squid/final"]
+  },
+  "squid.skyfall": {
+    "category": "neutral",
+    "sounds": ["squid/skyfall"]
+  },
+  "squid.deth": {
+    "category": "neutral",
+    "sounds": ["squid/deth"]
+  },
+  "squid.nuncaessuficiente": {
+    "category": "neutral",
+    "sounds": ["squid/nuncaessuficiente"]
+  },
+  "squid.game1": {
+    "category": "neutral",
+    "sounds": ["squid/8bitadventure"]
+  },
+  "squid.falgay3": {
+    "category": "neutral",
+    "sounds": ["squid/falgay3"]
+  },
+  "squid.noche": {
+    "category": "neutral",
+    "sounds": ["squid/noche"]
+  },
+  "squid.tensionbip": {
+    "category": "neutral",
+    "sounds": ["squid/tensionbip"]
+  },
+  "squid.falgay": {
+    "category": "neutral",
+    "sounds": ["squid/falgay"]
+  },
+  "squid.eliminated": {
+    "category": "neutral",
+    "sounds": ["squid/eliminated"]
+  },
+  "squid.pamplona": {
+    "category": "neutral",
+    "sounds": ["squid/pamplona"]
+  },
+  "squid.falgay2": {
+    "category": "neutral",
+    "sounds": ["squid/falgay2"]
+  },
+  "squid.night": {
+    "category": "neutral",
+    "sounds": ["squid/night"]
+  },
+  "squid.spotlight": {
+    "category": "neutral",
+    "sounds": ["squid/spotlight"]
+  },
+  "squid.explotion": {
+    "category": "neutral",
+    "sounds": ["squid/explotion"]
+  },
+  "squid.flyintothemoon": {
+    "category": "neutral",
+    "sounds": ["squid/flyintothemoon"]
+  },
+  "squid.inicio": {
+    "category": "neutral",
+    "sounds": ["squid/inicio"]
+  },
+  "squid.cuerda1": {
+    "category": "neutral",
+    "sounds": ["squid/cuerda1"]
+  },
+  "squid.iniciokaite": {
+    "category": "neutral",
+    "sounds": ["squid/iniciokaite"]
+  },
+  "squid.wolfsteps": {
+    "category": "neutral",
+    "sounds": ["squid/wolfsteps"]
+  },
+  "squid.botella": {
+    "category": "neutral",
+    "sounds": ["squid/botella"]
+  },
+  "squid.girl2": {
+    "category": "neutral",
+    "sounds": ["squid/girl2"]
+  },
+  "squid.aletas1": {
+    "category": "neutral",
+    "sounds": ["squid/aletas1"]
+  },
+  "squid.second": {
+    "category": "neutral",
+    "sounds": ["squid/secondstick"]
+  },
+  "squid.follow": {
+    "category": "neutral",
+    "sounds": ["squid/please-follow"]
+  },
+  "squid.nextgame": {
+    "category": "neutral",
+    "sounds": ["squid/juego-prox"]
+  },
+  "squid.night3": {
+    "category": "neutral",
+    "sounds": ["squid/night3"]
+  },
+  "squid.remo": {
+    "category": "neutral",
+    "sounds": ["squid/remo"]
+  },
+  "squid.cuerdaexp": {
+    "category": "neutral",
+    "sounds": ["squid/cuerdaexp"]
+  },
+  "squid.bombaexp": {
+    "category": "neutral",
+    "sounds": ["squid/bombaexp"]
+  },
+  "squid.estampidaexp": {
+    "category": "neutral",
+    "sounds": ["squid/estampidaexp"]
+  },
+  "squid.colarobada": {
+    "category": "neutral",
+    "sounds": ["squid/colarobada"]
+  },
+  "squid.colarobar": {
+    "category": "neutral",
+    "sounds": ["squid/colarobar"]
+  },
+  "squid.colas": {
+    "category": "neutral",
+    "sounds": ["squid/colas"]
+  },
+  "squid.colasshoot": {
+    "category": "neutral",
+    "sounds": ["squid/colasshoot"]
+  },
+  "squid.return": {
+    "category": "neutral",
+    "sounds": ["squid/return"]
+  },
+  "squid.shootout": {
+    "category": "neutral",
+    "sounds": ["squid/shootout"]
+  },
+  "squid.super_hero": {
+    "category": "neutral",
+    "sounds": ["squid/super_hero"]
+  },
+  "squid.thegodthebad": {
+    "category": "neutral",
+    "sounds": ["squid/thegodthebad"]
+  },
+  "squid.ascensor": {
+    "category": "neutral",
+    "sounds": ["squid/ascensor"]
+  },
+  "squid.astheworld": {
+    "category": "neutral",
+    "sounds": ["squid/astheworld"]
+  },
+  "squid.finalistascin": {
+    "category": "neutral",
+    "sounds": ["squid/finalistascin"]
+  },
+  "squid.finalistascin2": {
+    "category": "neutral",
+    "sounds": ["squid/finalistascin2"]
+  },
+  "squid.base_reset": {
+    "category": "neutral",
+    "sounds": ["squid/base_reset"]
+  },
+  "squid.base_shoot": {
+    "category": "neutral",
+    "sounds": ["squid/base_shoot"]
+  },
+  "squid.basereclamada": {
+    "category": "neutral",
+    "sounds": ["squid/basereclamada"]
+  },
+  "squid.baseprender": {
+    "category": "neutral",
+    "sounds": ["squid/baseprender"]
+  }
+}

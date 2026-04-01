@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "type=bottom,axis=x": {
+      "model": "supplementaries:block/cabin_siding_slab",
+      "y": 90
+    },
+    "type=double,axis=x": {
+      "model": "supplementaries:block/cabin_siding_double_slab",
+      "y": 90
+    },
+    "type=top,axis=x": {
+      "model": "supplementaries:block/cabin_siding_slab_top",
+      "y": 270
+    },
+
+    "type=bottom,axis=z": {
+      "model": "supplementaries:block/cabin_siding_slab",
+      "y": 0
+    },
+    "type=double,axis=z": {
+      "model": "supplementaries:block/cabin_siding_double_slab",
+      "y": 0
+    },
+    "type=top,axis=z": {
+      "model": "supplementaries:block/cabin_siding_slab_top",
+      "y": 180
+    }
+  }
+}
