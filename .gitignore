@@ -4,8 +4,6 @@
 *.zip
 
 # mods grandes
-overrides/mods/*.jar
-overrides/mods/*.zip
 
 # opcional: todo resourcepacks videos
 overrides/resourcepacks/**/videos/*
